@@ -1,0 +1,20 @@
+{
+  "name": "cli-speedtest",
+  "version": "0.0.1",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "author": "TJ Hillard",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.1.2",
+    "jsome": "^2.3.24",
+    "node-emoji": "^1.3.1",
+    "progressbar": "^1.1.1",
+    "single-line-log": "^1.1.1",
+    "speedtest-net": "^1.2.5"
+  }
+}
